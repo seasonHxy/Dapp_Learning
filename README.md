@@ -11,5 +11,6 @@ I will study the mainstream DAPP projects and share thoughts every week
 - 学习代码并注释，完成本地运行
 - ⬜ 表示任务未开始 ⌛ 表示任务正在进行中 ✅ 表示任务已完成
 
-1、deploy vote contract ⌛
-2、deploy contract with web3.js ⌛
+0、deploy vote contract ⌛
+1、deploy contract with web3.js ⌛
+2、create transaction with web3.js  ⌛
