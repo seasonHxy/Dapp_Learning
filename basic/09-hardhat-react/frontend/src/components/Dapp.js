@@ -250,7 +250,7 @@ export class Dapp extends React.Component {
   // Note that if you don't need it to update in near real time, you probably
   // don't need to poll it. If that's the case, you can just fetch it when you
   // initialize the app, as we do with the token data.
-  _startPollingData() {
+  _startPollingData() { 
     this._pollDataInterval = setInterval(() => this._updateBalance(), 1000)
 
     // We run it once immediately so we don't have to wait for it
